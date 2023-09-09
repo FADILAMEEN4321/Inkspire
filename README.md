@@ -19,8 +19,8 @@ To use this app, follow these simple steps:
 
 3. **Start the Development Server**: Once the installation is complete, start the development server:
 
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 4. **Open the App**: The app should now be running locally. You can access it in your web browser at http://localhost:3000.
 
