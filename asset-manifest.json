@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inkspire/static/css/main.1c860ea9.css",
+    "main.js": "/Inkspire/static/js/main.f173ecd8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Inkspire/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Inkspire/index.html",
+    "main.1c860ea9.css.map": "/Inkspire/static/css/main.1c860ea9.css.map",
+    "main.f173ecd8.js.map": "/Inkspire/static/js/main.f173ecd8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Inkspire/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c860ea9.css",
+    "static/js/main.f173ecd8.js"
+  ]
+}
